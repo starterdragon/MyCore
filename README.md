@@ -1,0 +1,2 @@
+# MyCore
+My Main plugin
